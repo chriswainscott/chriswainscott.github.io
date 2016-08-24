@@ -1,0 +1,58 @@
+ <style>
+ <style type="text/css">
+ body {
+	 width:90%;
+ }
+ 
+ html{
+	 background-color:gray;
+ }
+ #form-wrap{
+	
+	 border: 5px solid #ccc;
+	 background-color:#afc8de;
+	 margin: 50px auto;
+	 padding: 20px o;
+ }
+ form {
+	
+	 margin: 0 auto;
+ }
+ label {
+	 display:block;
+	 margin: 5px 0 5px 20px;
+	 font: 18px sans-serif;
+	 color: gray;
+ }
+ input {
+	 width: 40%;
+	 margin: 0 0 0 20px;
+ }
+ textarea {
+	 width:40%;
+	 height:20%px;
+	 margin: 0 0 0 20px;
+ }
+ fieldset {
+	 border:none;
+	 background-color:f6f6f6;
+	 padding: 0 0 20ox 0;
+ }
+ .labelone {
+	 margin-top: 10px;
+ }
+ .btn {
+	 width:125px;
+	
+	 }
+form h4 {
+	margin 20px 0 0 30px;
+	font: 24px sans-serif;
+	color: cdcdcd;
+	font-weight:bold;
+}
+ 
+</style>
+
+
+
